@@ -1,1 +1,36 @@
+name: NTV Nepal
 
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - run: pip install requests
+      
+      - name: Run script
+        env:
+          SCRIPT: ${{ secrets.NTV_PY }}
+        run: |
+          echo "$SCRIPT" | base64 -d > run.py
+          python run.py
+      
+      - name: Commit files
+        run: |
+          git config user.name "ntv-update[bot]"
+          git config user.email "bot@ntv.live"
+          git add *.json *.m3u 2>/dev/null || true
+          git commit -m "Refresh NTV playlists $(date '+%Y-%m-%d %H:%M')" || exit 0
+          git push
