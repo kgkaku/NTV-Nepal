@@ -2,7 +2,7 @@
   "playlist_info": {
     "name": "NTV Live Channels",
     "credit": "@kgkaku",
-    "generated_on": "14-10-2026 at 03:13:28 AM",
+    "generated_on": "14-10-2026 at 08:55:24 AM",
     "total_channels": 6,
     "active_channels": 6,
     "inactive_channels": 0
@@ -14,7 +14,7 @@
       "slug": "ntv",
       "logo": "https://ntv.newitventure.com/images/channel_logos/1.png",
       "description": "Nepal Television (Nepali: नेपाल टेलिभिजन) is the oldest and most watched television channel in Nepal. Nepal Television was for many years the only television channel native to Nepal, but several others have begun operation in recent years. A recent survey showed that The News (broadcast at 8:00 p.m.) was the channel's most popular show, followed by comedy program Tito Satya and Meri Bassai.",
-      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiAzOjEzOjIyIEFNJmhhc2hfdmFsdWU9dXpqSWM3NXkzYkMxSW4xVmJScHBvUT09JnZhbGlkbWludXRlcz0xNSZpZD0x"
+      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA4OjU1OjE4IEFNJmhhc2hfdmFsdWU9c2dCYjNJVjFIRkdCYy9UVmtxd0RJZz09JnZhbGlkbWludXRlcz0xNSZpZD0x"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "slug": "ntv-plus",
       "logo": "https://ntv.newitventure.com/images/channel_logos/2.png",
       "description": "NTV Plus is another channel from Nepal Television.",
-      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiAzOjEzOjIzIEFNJmhhc2hfdmFsdWU9aFZ6K0Y5L3pYaUpKREdlM0cwekZhQT09JnZhbGlkbWludXRlcz0xNSZpZD0x"
+      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA4OjU1OjE5IEFNJmhhc2hfdmFsdWU9N0dLdHZPUzNUYmIxTWNqUDRPZzhyQT09JnZhbGlkbWludXRlcz0xNSZpZD0x"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "slug": "ntv-news",
       "logo": "https://ntv.newitventure.com/images/channel_logos/3.png",
       "description": "Popular news channel of Nepal Television",
-      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvnews-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiAzOjEzOjI0IEFNJmhhc2hfdmFsdWU9UXlzc1ZPbCtkZU9IQk9LSkpUMzZnUT09JnZhbGlkbWludXRlcz0xNSZpZD0x"
+      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvnews-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA4OjU1OjIwIEFNJmhhc2hfdmFsdWU9d3c4cHlVTHFlWVJON0ZLYXlnNDBkZz09JnZhbGlkbWludXRlcz0xNSZpZD0x"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "slug": "ntv-kohalpur",
       "logo": "https://ntv.newitventure.com/images/channel_logos/4.png",
       "description": "NTV Kohalpur HD",
-      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvkohalpur-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiAzOjEzOjI1IEFNJmhhc2hfdmFsdWU9Zmd6eU1EYnVBVFdGNld2YU1CZXl0dz09JnZhbGlkbWludXRlcz0xNSZpZD0x"
+      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvkohalpur-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA4OjU1OjIxIEFNJmhhc2hfdmFsdWU9OURITyt3MWV0ZFBYR3dHWUJvQytjZz09JnZhbGlkbWludXRlcz0xNSZpZD0x"
     },
     {
       "id": 600,
@@ -46,7 +46,7 @@
       "slug": "ntv-itahari",
       "logo": "https://ntv.newitventure.com/images/channel_logos/600.png",
       "description": "NTV Itahari",
-      "stream_url": "https://cloud.truestreamz.com/ntvlivestream/ntvithari-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiAzOjEzOjI3IEFNJmhhc2hfdmFsdWU9dmIrVk1VTWY1VmJHQ2lubnRBTDJXQT09JnZhbGlkbWludXRlcz0xNSZpZD0x"
+      "stream_url": "https://cloud.truestreamz.com/ntvlivestream/ntvithari-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA4OjU1OjIyIEFNJmhhc2hfdmFsdWU9dnNCTFN4d1FCTE55bnlJK0o2ZEdTZz09JnZhbGlkbWludXRlcz0xNSZpZD0x"
     },
     {
       "id": 602,
@@ -54,7 +54,7 @@
       "slug": "ntv-world",
       "logo": "https://ntv.newitventure.com/images/channel_logos/602.webp",
       "description": "Nepal Television (Nepali: नेपाल टेलिभिजन) is the oldest and most watched television channel in Nepal. Nepal Television was for many years the only television channel native to Nepal, but several others have begun operation in recent years. A recent survey showed that The News (broadcast at 8:00 p.m.) was the channel's most popular show, followed by comedy program Tito Satya and Meri Bassai.",
-      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiAzOjEzOjI4IEFNJmhhc2hfdmFsdWU9SFZRNm1ETXB3T2M1N3UrVnJWUjErQT09JnZhbGlkbWludXRlcz0xNSZpZD0x"
+      "stream_url": "https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA4OjU1OjIzIEFNJmhhc2hfdmFsdWU9dDZUdmE5eUY3d0h6bTdiSlR6UUJ1dz09JnZhbGlkbWludXRlcz0xNSZpZD0x"
     }
   ]
 }
