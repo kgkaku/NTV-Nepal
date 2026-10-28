@@ -1,23 +1,23 @@
 #EXTM3U
 # NTV Live Channels
 # Playlist created by @kgkaku
-# Generated on: 27-10-2026 at 09:05:18 PM
+# Generated on: 28-10-2026 at 12:37:44 AM
 # Total Channels: 6 | Active: 6
 
 #EXTINF:-1 tvg-id="1" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com/images/channel_logos/1.png",NTV
-https://nplb.truestreamz.com/ntvlivestream/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA5OjA1OjEyIFBNJmhhc2hfdmFsdWU9S0ZYbFVSTG5uUnhwZ2VtWkwyb3IrQT09JnZhbGlkbWludXRlcz0xNSZpZD0x
+https://nplb.truestreamz.com/ntvlivestream/ntvnational-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyNiAxMjozNzozOSBBTSZoYXNoX3ZhbHVlPThsSEVtSlErb0NhcVRYZnUyYnV6bmc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-id="2" tvg-name="ntv-plus" tvg-logo="https://ntv.newitventure.com/images/channel_logos/2.png",NTV Plus
-https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA5OjA1OjEzIFBNJmhhc2hfdmFsdWU9ZmJNVENkL0ZpN2JDdmJSQ01GQmViQT09JnZhbGlkbWludXRlcz0xNSZpZD0x
+https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyNiAxMjozNzo0MCBBTSZoYXNoX3ZhbHVlPW9jZksyOVhESzFtMmZmUmt6Q01OMnc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-id="3" tvg-name="ntv-news" tvg-logo="https://ntv.newitventure.com/images/channel_logos/3.png",NTV News
-https://nplb.truestreamz.com/ntvlivestream/ntvnews-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA5OjA1OjE0IFBNJmhhc2hfdmFsdWU9c29mQjBaK3pRdTBqRCsycmNwZUVCUT09JnZhbGlkbWludXRlcz0xNSZpZD0x
+https://nplb.truestreamz.com/ntvlivestream/ntvnews-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyNiAxMjozNzo0MCBBTSZoYXNoX3ZhbHVlPW9jZksyOVhESzFtMmZmUmt6Q01OMnc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-id="4" tvg-name="ntv-kohalpur" tvg-logo="https://ntv.newitventure.com/images/channel_logos/4.png",NTV Kohalpur
-https://nplb.truestreamz.com/ntvlivestream/ntvkohalpur-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA5OjA1OjE2IFBNJmhhc2hfdmFsdWU9bnYrK21WcElvemIxSStZdjAvdzlzQT09JnZhbGlkbWludXRlcz0xNSZpZD0x
+https://nplb.truestreamz.com/ntvlivestream/ntvkohalpur-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyNiAxMjozNzo0MiBBTSZoYXNoX3ZhbHVlPXlaV09ZSGY3UUd6TWJPYXhrelVzOFE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-id="600" tvg-name="ntv-itahari" tvg-logo="https://ntv.newitventure.com/images/channel_logos/600.png",NTV Itahari
-https://cloud.truestreamz.com/ntvlivestream/ntvithari-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA5OjA1OjE3IFBNJmhhc2hfdmFsdWU9Z25CY1JXSTV1ZGU2L2x0aHVkRUVFZz09JnZhbGlkbWludXRlcz0xNSZpZD0x
+https://cloud.truestreamz.com/ntvlivestream/ntvithari-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyNiAxMjozNzo0MiBBTSZoYXNoX3ZhbHVlPXlaV09ZSGY3UUd6TWJPYXhrelVzOFE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
 
 #EXTINF:-1 tvg-id="602" tvg-name="ntv-world" tvg-logo="https://ntv.newitventure.com/images/channel_logos/602.webp",NTV WORLD
-https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA5OjA1OjE4IFBNJmhhc2hfdmFsdWU9UXJiZ2szNHJpR3JQY0VtVWYzbFV0UT09JnZhbGlkbWludXRlcz0xNSZpZD0x
+https://nplb.truestreamz.com/ntvlivestream/ntvplus-abr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyNiAxMjozNzo0NCBBTSZoYXNoX3ZhbHVlPUpCY0tTZm5YMVdkVVI1dk51UUQ4TUE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9MQ==
